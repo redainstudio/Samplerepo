@@ -244,4 +244,4 @@ Everything in this stack is free to start, but two categories will eventually co
 2. **Hosting/compute beyond free tiers** (Vercel function execution, Supabase database/storage, background job/video-rendering compute) — scales with user count and usage, but free tiers (per the research throughout this document) comfortably cover early-stage usage before any of this becomes a real expense.
 
 Everything else in this document — the frontend framework, UI components, database, auth, search, payments processing setup, error tracking, and the FFmpeg-based video pipeline specifically chosen to avoid Remotion's company-size licensing trigger — has no inherent cost ceiling tied to your success. The two costs above are the only ones to actively watch as Repona grows.
-.
+..
