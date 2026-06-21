@@ -1,4 +1,4 @@
-# Repona — Complete Technical Plan & Stack
+## Repona — Complete Technical Plan & Stack
 
 This document covers every technical decision required to build Repona end to end: architecture, every service involved, how each of the 14 product features actually gets built, data modeling, security, and a phased build order. Every tool chosen is free (or has a free tier sufficient for launch and early growth), with the reasoning for each choice and an honest note on its limits, so nothing is a silent surprise later.
 
