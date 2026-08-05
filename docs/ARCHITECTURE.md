@@ -2,7 +2,7 @@
 
 > **Living documentation** — Generated from your connected repository and kept in sync via Repona webhooks. Commit this file for a repo-local snapshot; the [live diagram](http://localhost:3000/share/ROTvMWVoC0_we_MobT6ZmeFjVf8P2lJY) always reflects the latest codebase.
 
-_Exported Aug 5, 2026, 9:23 AM. Re-export from Repona after major changes to refresh this file._
+_Exported Aug 5, 2026, 9:30 AM. Re-export from Repona after major changes to refresh this file._
 
 ## Overview
 
