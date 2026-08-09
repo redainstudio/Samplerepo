@@ -1,20 +1,20 @@
 # Samplerepo — Architecture
 
-> **Living documentation** — Generated from your connected repository and kept in sync via Arcobay webhooks. Commit this file for a repo-local snapshot; the [live diagram](http://localhost:3000/share/_GCczNu5sbQeqhrfckacJXz2kBF7KTfx) always reflects the latest codebase.
+> **Living documentation** — Generated from your connected repository and kept in sync via Arcobay webhooks. Commit this file for a repo-local snapshot; the [live diagram](http://localhost:3000/share/RKOV9nnw-T9U9cV4o-uGvkhseXvYlPKf) always reflects the latest codebase.
 
-_Exported Aug 9, 2026, 9:00 AM. Re-export from Arcobay after major changes to refresh this file._
+_Exported Aug 9, 2026, 9:16 AM. Re-export from Arcobay after major changes to refresh this file._
 
 ## Overview
 
 Next.js on Vercel with Supabase data/auth, Inngest workers for repo scans and exports, Claude for AI, and Paddle billing — derived from project documentation.
 
-[![Samplerepo architecture — live architecture diagram](https://img.shields.io/badge/Arcobay-live%20diagram-111?label=Architecture)](http://localhost:3000/share/_GCczNu5sbQeqhrfckacJXz2kBF7KTfx)
+[![Samplerepo architecture — live architecture diagram](https://img.shields.io/badge/Arcobay-live%20diagram-111?label=Architecture)](http://localhost:3000/share/RKOV9nnw-T9U9cV4o-uGvkhseXvYlPKf)
 
 ![Samplerepo architecture — build animation](architecture.gif)
 
 ![Samplerepo architecture](architecture.png)
 
-[Open interactive diagram in Arcobay](http://localhost:3000/share/_GCczNu5sbQeqhrfckacJXz2kBF7KTfx)
+[Open interactive diagram in Arcobay](http://localhost:3000/share/RKOV9nnw-T9U9cV4o-uGvkhseXvYlPKf)
 
 ## Components
 
